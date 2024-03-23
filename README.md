@@ -20,4 +20,7 @@ git pull = Utilizado para trazer as alterações realizadas atraves do repositor
 ![image](https://github.com/Joorb/AtividadePAM/assets/151594529/81f50bf2-ae8f-4145-8ac9-68e809aac2f2)
 git push -u origin main = Para realizar um push (alterar o repositorio remoto com alterações locais)
 git status = Exibe as condições do diretório de trabalho e da área de staging
-git add = adicionar conteúdo
+git add = Adicionar conteúdo
+
+![image](https://github.com/Joorb/AtividadePAM/assets/151594529/07c4b782-c109-42b9-aff9-c3b592c6b512)
+git pull = Utilizado para trazer as alterações realizadas atraves do repositorio remoto para um repositorio local
